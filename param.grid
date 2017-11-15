@@ -1,0 +1,3 @@
+      parameter(nx=181,nz=121)
+c      parameter(nx=181,nz=241)
+      parameter(nxz=nx*nz)
